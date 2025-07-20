@@ -5,8 +5,7 @@ def not_practice():
 def neatcode():
     print("neatcode")
 
-
-
 # so 
 def bugfix_main():
     print("fixed feature was also devloping on side")
+
